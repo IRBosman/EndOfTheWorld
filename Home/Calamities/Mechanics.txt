@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-02-21T12:56:03+01:00
+
+====== Mechanics ======
+Created Sunday 21 February 2021
+
+2 Options so far:
+- Start of Session: roll calamity die. If 1: world will end that session
+- Start of Era: roll calamity die. That´s how many sessions you have before the world ends
+
+TBD: should there be some mechanism to work out the calamity too? Sounds overly complicated imho. 

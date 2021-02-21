@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-02-21T12:41:54+01:00
+
+====== Mechanics ======
+Created Sunday 21 February 2021
+
+Principles:
+1: Should be applicable widely.
+	If you´re running over a broad set of modes of play and kinds of Eras, you can just be stuck with rules about ¨lol, this is how you swing a sword¨. Having rules that do not apply to an Era sounds weird
+2: Should be simple
+	Basically same as above.
+
+

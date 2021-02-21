@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-02-21T13:02:19+01:00
+
+====== Resources ======
+Created Sunday 21 February 2021
+
+If you want to solve stuff over multiple Eras there needs to be some sort of codified way to pass information from one to the next.
+	**Open question**: are mechanics needed for this, or is that just some sort of [[..\Characters\Meta-level.txt|meta-level character]] stuff.
+	
+	
